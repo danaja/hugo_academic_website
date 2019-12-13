@@ -40,7 +40,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["urban informatics"]
 
 # Links (optional).
 url_pdf = "http://www.jblumenstock.com/files/papers/jblumenstock_2017_ictd_tollroad.pdf"
