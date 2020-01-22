@@ -18,7 +18,7 @@ authors = ["Danaja Maldeniya","Ceren Budak","Lionel P. Robert","Daniel M. Romero
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming"
+publication = "Proc. of The Web Conference (WWW) 2020"
 publication_short = "WWW"
 
 # Abstract and optional shortened version.

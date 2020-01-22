@@ -1,6 +1,6 @@
 +++
 title = "Understanding the Impact of Urban Infrastructure: New Insights from Population-Scale Data"
-date = 2017-01-01
+date = 2017-11-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
