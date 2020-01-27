@@ -44,7 +44,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/herding_a_deluge_of_good_samaritans.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
