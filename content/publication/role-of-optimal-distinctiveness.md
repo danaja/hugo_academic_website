@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/download/15634/14867"
+url_pdf = "files/role_of_optimal_distinctiveness_and_homophily.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

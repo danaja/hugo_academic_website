@@ -43,7 +43,7 @@ projects = []
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["urban informatics"]
 # Links (optional).
-url_pdf = "http://lirneasia.net/wp-content/uploads/2013/09/Big_Data_to_Improve_Urban_Planning.pdf"
+url_pdf = "files/big_data_to_improve_urban_planning.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

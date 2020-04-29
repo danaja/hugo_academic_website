@@ -43,7 +43,7 @@ projects = []
 tags = ["urban informatics"]
 
 # Links (optional).
-url_pdf = "http://www.jblumenstock.com/files/papers/jblumenstock_2017_ictd_tollroad.pdf"
+url_pdf = "files/understanding_the_impact_of_urban_infrastructure.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
