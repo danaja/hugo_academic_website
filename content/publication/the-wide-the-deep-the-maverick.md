@@ -41,7 +41,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["diversity", "conformity", "teams", "online-games", "shocks"]
 
 # Links (optional).
 url_pdf = ""
@@ -56,7 +56,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "PREPRINT", url = "files/CSCW_2021_The_Wide__the_Deep_and_the_Maverick_P.pdf"},{name = "SUPPLEMENTARY", url = "files/CSCW_2021_The_Wide_the_Deep_and_the_Maverick_S.pdf"}]
+links = [{name = "PDF", url = "files/CSCW_2021_The_Wide__the_Deep_and_the_Maverick_P.pdf"},{name = "SUPPLEMENTARY", url = "files/CSCW_2021_The_Wide_the_Deep_and_the_Maverick_S.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

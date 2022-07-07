@@ -40,7 +40,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["online dating", "choice", "homophily", "self-presentation"]
 
 # Links (optional).
 url_pdf = "files/role_of_optimal_distinctiveness_and_homophily.pdf"

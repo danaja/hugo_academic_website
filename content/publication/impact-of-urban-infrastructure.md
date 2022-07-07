@@ -22,7 +22,7 @@ publication = "The 9th IEEE/ACM International Conference on Information and Comm
 publication_short = "ICTD"
 
 # Abstract and optional shortened version.
-abstract = "As a growing share of the world’s population inhabits cities, a central focus of current development policy has been on building urban infrastructure to support increasing population density. An important component of such policy has been the construction of major roads and highways, which in principle can reduce congestion, promote development of peri-urban areas, and increase labor mobility. However, the actual impacts of such investments have been difficult to evaluate empirically. Here, we use a rich dataset capturing the mobility patterns of roughly 9 million individuals to study the impact of a new super-highway on travel patterns in and around Colombo, the capital of Sri Lanka. Our results indicate that this road had an immediate and pronounced impact on travel patterns: people changed their primary routes of travel, which reduced overall congestion, increased average travel speeds, and reduced the amount of time spent in transit. We further find that the super-highway led to a modest, but statistically significant, increase in the total amount of travel in and around Colombo. We discuss how such insights can inform future policymaking, and point to several promising areas for future research."
+abstract = "As a growing share of the world’s population inhabits cities, a central focus of current development policy has been on building urban infrastructure to support increasing population density. An important component of such policy has been the construction of major roads and highways, which in principle can reduce congestion, promote development of peri-urban areas, and increase labor mobility. However, the actual impacts of such investments have been difficult to evaluate empirically. Here, we use a rich dataset capturing the mobility patterns of roughly 9 million individuals to study the impact of a new super-highway on travel patterns in and around Colombo, the capital of Sri Lanka. Our results indicate that this road had an immediate and pronounced impact on travel patterns: people changed their primary routes of travel, which reduced overall congestion, increased average travel speeds, and reduced the amount of time spent in transit. We further find that the super-highway led to a modest, but statistically significant, increase in the total amount of travel in and around Colombo. We discuss how such insights can inform future policymaking, and point to several promising areas for future research."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -40,7 +40,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urban informatics"]
+tags = ["urban informatics", "shocks", "mobility"]
 
 # Links (optional).
 url_pdf = "files/understanding_the_impact_of_urban_infrastructure.pdf"
@@ -70,3 +70,4 @@ image = ""
 caption = ""
 
 +++
+
