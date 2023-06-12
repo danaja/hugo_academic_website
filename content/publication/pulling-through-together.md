@@ -44,7 +44,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/pulling-through-together.pdf"
+url_pdf = "files/pulling_through_together.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
